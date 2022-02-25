@@ -6,7 +6,7 @@ metadata:
   tags:
     - rest
 spec:
-  type: openapi
+  type: service
   lifecycle: dev
   owner: ni-jvaldivia
   definition:
